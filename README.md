@@ -1,4 +1,4 @@
-## Hi there 👋 I'm Freddy Cunningham
+# Hi there 👋
 
 I'm a final-year Computer Science student at [Durham University](https://durham.ac.uk/), passionate about technology, Software Engineering, and continuous learning. Here's a bit more about me:
 
